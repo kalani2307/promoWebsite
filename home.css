@@ -1,0 +1,54 @@
+/* Everything in here is a COMMENT CODE */
+
+body
+{
+
+    background-image: url("img/yoshi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h4
+{
+    color: blueviolet;
+}
+
+/* style specific section of the page that has an ID= using the hashtag feature */
+#textEnhance
+{
+ color: #008bc7;
+    background-image: linear-gradient(red,blue,purple,orange);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
